@@ -60,13 +60,14 @@ This repository contains the materials and references from the 2025 edition of *
 
 ### Connect
 - [LinkedIn — Ryan McLeod](https://www.linkedin.com/in/ryan-mcleod-355b299/)  
+- [Blackbox Puzzles](https://www.blackboxpuzzles.com/)  
 
 ---
 
 ## Shift Island Journal  
 
 Loved our journal and want to buy one for your friends?  
-Completed your current journal? Looking for a fresh one?  
+Completed your current journal and looking for a fresh one?  
 
 <p>
   <a href="https://www.amazon.com/dp/B0FNN1MKLM">
