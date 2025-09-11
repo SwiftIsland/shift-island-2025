@@ -6,6 +6,19 @@ Shift Island is a complementary program to **Swift Island**, focusing on perspec
 
 This repository contains the materials and references from the 2025 edition of **Shift Island**, 3 separate workshops/talks focused on shifting perspectives and expanding skills.  
 
+### Shift Island Journal  
+Loved our journal and want to buy one for your friends?  
+Completed your current journal? Looking for a fresh one?  
+
+<p>
+  <a href="https://www.amazon.com/dp/B0FNN1MKLM">
+    <img src="https://laurensergy.com/wp-content/uploads/2021/08/Amazon-buy-now-button.png" alt="Buy on Amazon" width="150"/>
+  </a>
+</p>
+
+- [Amazon.com](https://www.amazon.com/dp/B0FNN1MKLM)  
+- [Amazon.nl](https://www.amazon.nl/dp/B0FNN1MKLM)  
+
 ---
 
 ## Fennande van der Meulen — Workplace Happiness  
@@ -61,19 +74,3 @@ This repository contains the materials and references from the 2025 edition of *
 ### Connect
 - [LinkedIn — Ryan McLeod](https://www.linkedin.com/in/ryan-mcleod-355b299/)  
 - [Blackbox Puzzles](https://www.blackboxpuzzles.com/)  
-
----
-
-## Shift Island Journal  
-
-Loved our journal and want to buy one for your friends?  
-Completed your current journal and looking for a fresh one?  
-
-<p>
-  <a href="https://www.amazon.com/dp/B0FNN1MKLM">
-    <img src="https://laurensergy.com/wp-content/uploads/2021/08/Amazon-buy-now-button.png" alt="Buy on Amazon" width="150"/>
-  </a>
-</p>
-
-- [Amazon.com](https://www.amazon.com/dp/B0FNN1MKLM)  
-- [Amazon.nl](https://www.amazon.nl/dp/B0FNN1MKLM)  
