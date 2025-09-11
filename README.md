@@ -16,7 +16,7 @@ This repository contains the materials and references from the 2025 edition of *
   - **Dutch**: [Werkblad Emotiedossier.pdf](Werkblad%20Emotiedossier.pdf)  
   - **English**: The equivalent exercise can be found in *Positivity* by Barbara Fredrickson  
 
-### Recommended Readings
+### Recommended Readings & Resources
 - _Shift: Managing Your Emotions—So They Don’t Manage You_ by Ethan Kross  
   - [Amazon](https://www.amazon.com/Shift-Managing-Your-Emotions-So-Manage/dp/0593444418)  
   - [Goodreads](https://www.goodreads.com/book/show/212294438-shift)  
@@ -24,6 +24,7 @@ This repository contains the materials and references from the 2025 edition of *
   - [Amazon](https://www.amazon.com/Positivity-Groundbreaking-Research-Strength-Negativity/dp/0307393739)  
   - [Goodreads](https://www.goodreads.com/book/show/5629833-positivity)  
 - Energy Quadrants by Tony Schwartz (The Energy Project)  
+  - **Talk**: [Energy Quadrants — Tony Schwartz](https://www.youtube.com/watch?v=tke6X2eME3c)
 
 ### Connect
 - [LinkedIn — Fennande van der Meulen](https://www.linkedin.com/in/fennande/)  
@@ -35,11 +36,11 @@ This repository contains the materials and references from the 2025 edition of *
 ### Materials
 - **[Slides: Sketchnoting-workshop.pdf](Sketchnoting-workshop.pdf)**  
 - Blog post: [Vision for Sketchnoting (2025)](https://fbernutz.github.io/posts/2025-01-19-vision-for-sketchnoting/)  
-- Workshop summary: Sketchnoting as a tool to visualize ideas, capture talks, and enhance memory by combining words with simple drawings.  
+- Workshop summary: Sketchnoting as a tool to visualize ideas, capture talks, and enhance your memory by combining words with drawings.  
 
 ### Key Ideas
-- Sketchnoting helps you focus, remember, and share insights creatively.  
-- Anyone can sketchnote — no drawing talent required, just simple symbols and structures.  
+- Sketchnoting helps you focus, remember, and share insights in a creative manner.  
+- Anyone can sketchnote — no drawing talent required, just simple symbols and structures. Use the visual language. 
 
 ---
 
@@ -51,5 +52,4 @@ This repository contains the materials and references from the 2025 edition of *
 ### Key Themes
 - Strategies for reasoning about unknowns.  
 - Using creative constraints to discover opportunities.  
-- Building mental models to navigate opaque systems.  
-
+- Finding ways to understand and work with systems that feel like a black box.  
