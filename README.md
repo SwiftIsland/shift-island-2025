@@ -53,7 +53,7 @@ Completed your current journal? Looking for a fresh one?
 
 ### Key Ideas
 - Sketchnoting helps you focus, remember, and share insights in a creative manner.  
-- Anyone can sketchnote — no drawing talent required, just simple symbols and structures. Use the visual language.  
+- Anyone can sketchnote — no drawing talent required, just simple symbols and structures. Use the visual alphabet.  
 
 ### Connect
 - [Mastodon — @feli@iosdev.space](https://iosdev.space/@feli)  
