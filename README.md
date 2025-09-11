@@ -1,34 +1,55 @@
-# Shift Island 2025 Workshop
+# Shift Island 2025 Workshops  
+_Presented during the Swift Island Conference_
 
-This repository contains the materials for the **Shift Island 2025** workshop presented during the **Swift Island** conference.
+## About Shift Island
+Shift Island is a complementary program to **Swift Island**, focusing on perspective-shifting workshops around creativity, leadership, and wellbeing.  
 
-## Workshop Contents
-
-- **[Slides: 2025_Swift Island_final.pdf](2025_Swift%20Island_final.pdf)**  
-- **Exercise Materials**  
-  - **Dutch**: [Werkblad Emotiedossier.pdf](Werkblad%20Emotiedossier.pdf)  
-  - **English**: The equivalent exercise can be found in *Positivity* by Barbara Fredrickson
-
-## Recommended Readings
-
-### 1. _Shift: Managing Your Emotions—So They Don’t Manage You_ by Ethan Kross
-- A science-based guide on managing emotional life by using mental and environmental strategies.  
-- **Amazon**: [Shift on Amazon](https://www.amazon.com/Shift-Managing-Your-Emotions-So-Manage/dp/0593444418)  
-- **Goodreads**: [Shift on Goodreads](https://www.goodreads.com/book/show/212294438-shift)  
-
-### 2. _Positivity: Groundbreaking Research Reveals How to Embrace the Hidden Strength of Positive Emotions, Overcome Negativity, and Thrive_ by Barbara Fredrickson
-- Explores the importance of positive emotions, emotional ratios, and wellbeing.  
-- **Amazon**: [Positivity on Amazon](https://www.amazon.com/Positivity-Groundbreaking-Research-Strength-Negativity/dp/0307393739)  
-- **Goodreads**: [Positivity on Goodreads](https://www.goodreads.com/book/show/5629833-positivity)  
-
-### 3. Energy Quadrants & Emotional Theory
-- If you’d like to explore further, look up **Tony Schwartz** and **The Energy Project** to understand the concept of energy quadrants.
-
-## Additional Resources
-
-- **LinkedIn**: You can connect with me here:  
-  [linkedin.com/in/fennande](https://www.linkedin.com/in/fennande/)
+This repository contains the materials and references from the 2025 edition of **Shift Island**, 3 separate workshops/talks focused on shifting perspectives and expanding skills.  
 
 ---
 
-> **Note:** For Dutch-speaking participants, use the *Werkblad Emotiedossier*; for English-speaking participants, please refer to the exercise provided in *Positivity*.
+## Fennande van der Meulen — Workplace Happiness  
+
+### Materials
+- **[Slides: 2025_Swift Island_final.pdf](2025_Swift%20Island_final.pdf)**  
+- **Exercise Materials**  
+  - **Dutch**: [Werkblad Emotiedossier.pdf](Werkblad%20Emotiedossier.pdf)  
+  - **English**: The equivalent exercise can be found in *Positivity* by Barbara Fredrickson  
+
+### Recommended Readings
+- _Shift: Managing Your Emotions—So They Don’t Manage You_ by Ethan Kross  
+  - [Amazon](https://www.amazon.com/Shift-Managing-Your-Emotions-So-Manage/dp/0593444418)  
+  - [Goodreads](https://www.goodreads.com/book/show/212294438-shift)  
+- _Positivity_ by Barbara Fredrickson  
+  - [Amazon](https://www.amazon.com/Positivity-Groundbreaking-Research-Strength-Negativity/dp/0307393739)  
+  - [Goodreads](https://www.goodreads.com/book/show/5629833-positivity)  
+- Energy Quadrants by Tony Schwartz (The Energy Project)  
+
+### Connect
+- [LinkedIn — Fennande van der Meulen](https://www.linkedin.com/in/fennande/)  
+
+---
+
+## Feli Bernutz — Sketchnoting  
+
+### Materials
+- **[Slides: Sketchnoting-workshop.pdf](Sketchnoting-workshop.pdf)**  
+- Blog post: [Vision for Sketchnoting (2025)](https://fbernutz.github.io/posts/2025-01-19-vision-for-sketchnoting/)  
+- Workshop summary: Sketchnoting as a tool to visualize ideas, capture talks, and enhance memory by combining words with simple drawings.  
+
+### Key Ideas
+- Sketchnoting helps you focus, remember, and share insights creatively.  
+- Anyone can sketchnote — no drawing talent required, just simple symbols and structures.  
+
+---
+
+## Ryan McLeod — Thinking Outside of the Blackbox  
+
+### Materials
+- **[Slides: Ryan_McLeod_Blackbox.pdf](Ryan_McLeod_Blackbox.pdf)**  
+
+### Key Themes
+- Strategies for reasoning about unknowns.  
+- Using creative constraints to discover opportunities.  
+- Building mental models to navigate opaque systems.  
+
