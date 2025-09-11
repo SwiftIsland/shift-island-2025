@@ -40,7 +40,12 @@ This repository contains the materials and references from the 2025 edition of *
 
 ### Key Ideas
 - Sketchnoting helps you focus, remember, and share insights in a creative manner.  
-- Anyone can sketchnote — no drawing talent required, just simple symbols and structures. Use the visual language. 
+- Anyone can sketchnote — no drawing talent required, just simple symbols and structures. Use the visual language.  
+
+### Connect
+- [LinkedIn — Feli Bernutz](https://www.linkedin.com/in/felibernutz/)  
+- [Mastodon — @feli@iosdev.space](https://iosdev.space/@feli)  
+- [Bluesky — @felibe444.bsky.social](https://bsky.app/profile/felibe444.bsky.social)  
 
 ---
 
@@ -53,3 +58,22 @@ This repository contains the materials and references from the 2025 edition of *
 - Strategies for reasoning about unknowns.  
 - Using creative constraints to discover opportunities.  
 - Finding ways to understand and work with systems that feel like a black box.  
+
+### Connect
+- [LinkedIn — Ryan McLeod](https://www.linkedin.com/in/ryan-mcleod-355b299/)  
+
+---
+
+## Shift Island Journal  
+
+Loved our journal and want to buy one for your friends?  
+Completed your current journal? Looking for a fresh one?  
+
+<p>
+  <a href="https://www.amazon.com/dp/B0FNN1MKLM">
+    <img src="https://laurensergy.com/wp-content/uploads/2021/08/Amazon-buy-now-button.png" alt="Buy on Amazon" width="150"/>
+  </a>
+</p>
+
+- [Amazon.com](https://www.amazon.com/dp/B0FNN1MKLM)  
+- [Amazon.nl](https://www.amazon.nl/dp/B0FNN1MKLM)  
