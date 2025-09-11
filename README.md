@@ -43,7 +43,6 @@ This repository contains the materials and references from the 2025 edition of *
 - Anyone can sketchnote — no drawing talent required, just simple symbols and structures. Use the visual language.  
 
 ### Connect
-- [LinkedIn — Feli Bernutz](https://www.linkedin.com/in/felibernutz/)  
 - [Mastodon — @feli@iosdev.space](https://iosdev.space/@feli)  
 - [Bluesky — @felibe444.bsky.social](https://bsky.app/profile/felibe444.bsky.social)  
 
