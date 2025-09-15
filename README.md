@@ -4,7 +4,7 @@ _Presented during the Swift Island Conference_
 ## About Shift Island
 Shift Island is a complementary program to **Swift Island**, focusing on perspective-shifting workshops around creativity, leadership, and wellbeing.  
 
-This repository contains the materials and references from the 2025 edition of **Shift Island**, 3 separate workshops/talks focused on shifting perspectives and expanding skills.  
+This repository contains the materials and references from the 2025 edition of **Shift Island**, 4 separate workshops/talks focused on shifting perspectives and expanding skills.  
 
 ### Shift Island Journal  
 Loved our journal and want to buy one for your friends?  
@@ -74,3 +74,19 @@ Completed your current journal? Looking for a fresh one?
 ### Connect
 - [LinkedIn — Ryan McLeod](https://www.linkedin.com/in/ryan-mcleod-355b299/)  
 - [Blackbox Puzzles](https://www.blackboxpuzzles.com/)  
+
+---
+
+## NLP for Coders — Mini Workshop  
+
+### Materials
+- **[NLP Cheat Sheet for Coders (Shift Island).pdf](NLP%20Cheat%20Sheet%20for%20Coders%20(Shift%20Island).pdf)**  
+- **[NLP Mini-Workshop (Shift Island).pdf](NLP%20Mini-Workshop%20(Shift%20Island).pdf)**  
+
+### Key Themes
+- Learn how **Neuro-Linguistic Programming (NLP)** tools can improve communication and collaboration in development teams.  
+- Practice **reframing techniques** to overcome mental blocks and rewire your perspective on challenges.  
+- Explore quick NLP exercises for coders to boost focus, creativity, and problem-solving.  
+
+### Takeaway
+This session combined a short **mini-workshop** with a practical cheat sheet.  
